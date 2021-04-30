@@ -1,16 +1,16 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Juan Ig Romero 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hola! Mi nombre es Juan Ig Romero 👨‍💻
 
-I am a Full Stack Developer (I like the Front End better) in constant learning. I really like the different expressions of art and I think that web design is one of them.
+Soy un Full Stack Developer (Me gusta mas el Front End) en constante aprendizaje. Me gusta mucho las distintas expresiones del arte y creo que el el diseño web es una de estas. 
 
-I really like learning new things and programming showed me a huge world of things to discover. I don't have many projects yet, but one of my goals is to build this space in an interesting way where I can show my work.
+Me gusta mucho aprender cosas nuevas y la programación me mostro un mundo enorme de cosas por descubrir. No cuento con muchos proyectos todavía pero es uno de mis objetivos ir construyendo este espacio de una manera interesante donde pueda mostrar mi trabajo
 
-I am currently working in an E-Commerce with a group of Henry organizing ourselves with agile work methodologies (SCRUM) implementing technologies that I did not know such as Graphql, Apollo, Typescript 🚀.
+Actualmente estoy trabajando en un E-Commerce con un grupo de Henry organizandonos con metodologías ágiles de trabajo (SCRUM) implementando tecnologías que no conocía como Graphql, Apollo, Typescript 🚀.
 
-#### 🔭 I’m currently looking for new opportunities .
-- 🌱 I’m currently learning Graphql and Typescript
-- 👯 I’m looking to collaborate on web project
-- ⚡ Fun fact: I like to draw pictures and play the guitar
-- 📫 How to reach me juanigromero97@gmail.com
+#### 🔭 Actualmente estoy en busca de nuevas oportunidades.
+- 🌱 Actualmente estoy aprendiendo a utilizar Graphql y Typescript
+- 👯 Buscando colaborar en un proyecto de Desarrollo Web para desplegar mis aptitudes
+- ⚡ Datos Curiosos: Me gusta hacer dibujitos y tocar la guitarra
+- 📫 Contactame!: juanigromero97@gmail.com
 
 ## ⚡ Tech Stack
 
