@@ -1,6 +1,10 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Juan Ig Romero 👨‍💻
 
-I am a Full Stack Software Developer constantly learning.
+I am a Full Stack Developer (I like the Front End better) in constant learning. I really like the different expressions of art and I think that web design is one of them.
+
+I really like learning new things and programming showed me a huge world of things to discover. I don't have many projects yet, but one of my goals is to build this space in an interesting way where I can show my work.
+
+I am currently working in an E-Commerce with a group of Henry organizing ourselves with agile work methodologies (SCRUM) implementing technologies that I did not know such as Graphql, Apollo, Typescript 🚀.
 
 #### 🔭 I’m currently looking for new opportunities .
 - 🌱 I’m currently learning Graphql and Typescript
