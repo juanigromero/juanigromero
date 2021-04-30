@@ -12,7 +12,7 @@ I am a Full Stack Software Developer constantly learning.
 
 Here are a few things I've picked up along my learning journey.
 
- ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)![]( https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+ ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![]( https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  
 ![]( https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white!)
 
