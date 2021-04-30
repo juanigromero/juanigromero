@@ -10,7 +10,7 @@ Actualmente estoy trabajando en un E-Commerce con un grupo de Henry organizandon
 - 🌱 Actualmente estoy aprendiendo a utilizar Graphql y Typescript
 - 👯 Buscando colaborar en un proyecto de Desarrollo Web para desplegar mis aptitudes
 - ⚡ Datos Curiosos: Me gusta hacer dibujitos y tocar la guitarra
-- 📫 Contactame! => juanigromero97@gmail.com
+- 📫 Email => juanigromero97@gmail.com
 
 ## ⚡ Tecnologías
 
@@ -35,6 +35,6 @@ Aquí algunas cosas que he aprendido a lo largo de este camino de aprendizaje:
  
 
 
-## 📫 
+## 📫 Contáctame!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/juanigromero)
 
