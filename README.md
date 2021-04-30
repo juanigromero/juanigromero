@@ -6,7 +6,7 @@ I am a Full Stack Software Developer constantly learning.
 - 🌱 I’m currently learning Graphql and Typescript
 - 👯 I’m looking to collaborate on web project
 - ⚡ Fun fact: I like to draw pictures and play the guitar
-
+- 📫 How to reach me juanigromero97@gmail.com
 
 ## ⚡ Tech Stack
 
