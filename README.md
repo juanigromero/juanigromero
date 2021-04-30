@@ -10,11 +10,11 @@ Actualmente estoy trabajando en un E-Commerce con un grupo de Henry organizandon
 - 🌱 Actualmente estoy aprendiendo a utilizar Graphql y Typescript
 - 👯 Buscando colaborar en un proyecto de Desarrollo Web para desplegar mis aptitudes
 - ⚡ Datos Curiosos: Me gusta hacer dibujitos y tocar la guitarra
-- 📫 Contactame!: juanigromero97@gmail.com
+- 📫 Contactame! => juanigromero97@gmail.com
 
-## ⚡ Tech Stack
+## ⚡ Tecnologías
 
-Here are a few things I've picked up along my learning journey.
+Aquí algunas cosas que he aprendido a lo largo de este camino de aprendizaje:
 
  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![]( https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  
@@ -35,6 +35,6 @@ Here are a few things I've picked up along my learning journey.
  
 
 
-## 📫 Get in touch
+## 📫 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/juanigromero)
 
