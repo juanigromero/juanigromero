@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hola! Mi nombre es Juan Ig Romero 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hola! Mi nombre es Juan Ignacio Romero 👨‍💻
 
 Soy un Full Stack Developer (Me gusta mas el Front End) en constante aprendizaje. Me gusta mucho las distintas expresiones del arte y creo que el el diseño web es una de estas. 
 
