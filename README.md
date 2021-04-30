@@ -34,5 +34,3 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/juanigromero)
 
- or give some ♥ on [mail](mailto:juanigromero97@gmail.com) .
-
