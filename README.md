@@ -1,10 +1,10 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hola! Mi nombre es Juan Ignacio Romero 👨‍💻
 
-Soy un Full Stack Developer (Me gusta mas el Front End) en constante aprendizaje. Me gusta mucho las distintas expresiones del arte y creo que el el diseño web es una de estas. 
+Soy  Full Stack Developer (Me inclino hacia el Front End) en constante aprendizaje. Me gusta mucho las distintas expresiones del arte y creo que el el diseño web es una de estas. 
 
 Me gusta mucho aprender cosas nuevas y la programación me mostro un mundo enorme de cosas por descubrir. No cuento con muchos proyectos todavía pero es uno de mis objetivos ir construyendo este espacio de una manera interesante donde pueda mostrar mi trabajo
 
-Actualmente estoy trabajando en un E-Commerce con un grupo de Henry organizandonos con metodologías ágiles de trabajo (SCRUM) implementando tecnologías que no conocía como Graphql, Apollo, Typescript 🚀.
+Actualmente estoy en búsqueda activa de un trabajo donde pueda desarrollar mis habilidades adquiridas y seguir aprendiendo.
 
 #### 🔭 Actualmente estoy en busca de nuevas oportunidades.
 - 🌱 Actualmente estoy aprendiendo a utilizar Graphql y Typescript
